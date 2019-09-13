@@ -1,5 +1,7 @@
 # Sample Packer json file to create a RHEL 7.7 AMI
 
+
+
 This example packer file serves as a quick-start to creating a RHEL 7.7 AMI in AWS.   
 As with any suitable first building block, a *Hello World* (with a twist) has been included.
 
